@@ -3,8 +3,6 @@ Click on below Link to Check my Portfolio and easy undersatanding of my works.
 
 **[http://iamabinashpanda.github.io/iamabinashpanda](https://iamabinashpanda.github.io/iamabinashpanda/)**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working with Qalibre Software Solutions Private Limited.
 - 🌱 I’m currently learning .NET Core.
 - 👯 I’m looking to collaborate on DevOps.
