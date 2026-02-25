@@ -26,72 +26,102 @@ I am a technical specialist with **3+ years of experience** in Policy Configurat
 
 ---
 
-## 🦆 Enterprise Track Record: Duck Creek Technologies
+## 🦆 Enterprise Track Record: Duck Creek Tools & Technologies
 **Policy Configurator - Consultant (3 Years Experience)**
-Expertise in architecting and optimizing Insurance Core Systems through the full Duck Creek lifecycle:
+Trained and getting hands-on expertise in developing and optimizing Insurance Systems through the full Duck Creek lifecycle:
 
-* **Policy Logic:** 3 years of deep-dive configuration in **DC Author**, **DC Rating**, and **DC TransACT**, managing complex transaction engines and actuarial algorithms.
-* **UI/UX & Business Process:** Designing intuitive portal interfaces via **DC Express 3** and automating enterprise workflows with **DC Workflows**.
-* **Governance & Efficiency:** Streamlining environment health using **DC Utility**, **DC Forms**, and advanced performance debugging via **Trace Monitor**.
+* **Policy Logic:** 3 years of deep-dive configuration in **DC Author**, **DC Rating**, **DC Forms** and **DC TransACT**, managing basic transactions and implementing logical algorithms.
+* **UI/UX & Business Process:** Designing user interfaces in **Express 3** in **View Model** & **Page Designer**  and managing workflows in **DC Workflows manuscripts**.
+* **Governance:** Debugging application using **DC Utility** and advanced performance debugging via **Trace Monitor**.
 
 ---
 
-## 🚀 Featured Engineering Repositories
+## 🚀 Featured Engineering-Labs Repos :
 
 ### ☁️ Cloud & DevOps Infrastructure
-<p align="center">
-  <a href="https://github.com/iamabinashpanda/aws-solutions-architect">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=aws-solutions-architect&theme=dark" />
-  </a>
-  <a href="https://github.com/iamabinashpanda/devops-engineering-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=devops-engineering-lab&theme=dark" />
-  </a>
-  <a href="https://github.com/iamabinashpanda/linux-administration">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=linux-administration&theme=dark" />
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/aws-solutions-architect">
+        <img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fcontenu.nyc3.digitaloceanspaces.com%2Fjournalist%2F6bfcdcff-755a-4eba-b642-8f68e11b8066%2Fthumbnail.jpeg" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/devops-engineering-lab">
+        <img src="https://cdn.worldvectorlogo.com/logos/devops-2.svg" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/linux-administration">
+        <img src="https://logodownload.org/wp-content/uploads/2022/05/linux-logo.png" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧪 Data Science & MLOps
-<p align="center">
-  <a href="https://github.com/iamabinashpanda/data-science-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=data-science-portfolio&theme=dark" />
-  </a>
-  <a href="https://github.com/iamabinashpanda/power-bi-dashboards">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=power-bi-dashboards&theme=dark" />
-  </a>
-  <a href="https://github.com/iamabinashpanda/streamlit-data-apps">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=streamlit-data-apps&theme=dark" />
-  </a>
-</p>
+### 🧪 Data Science & Analytics
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/data-science-portfolio">
+        <img src="https://thekiranacademy.com/img/courses/dataanalytics.png" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/power-bi-dashboards">
+        <img src="https://iaccountancy.org/wp-content/uploads/2020/09/power-bi-1-logo.jpg" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🐍 Backend & Python Engineering
-<p align="center">
-  <a href="https://github.com/iamabinashpanda/fastapi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=fastapi&theme=dark" />
-  </a>
-  <a href="https://github.com/iamabinashpanda/python-certification-projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=python-certification-projects&theme=dark" />
-  </a>
-</p>
+### Web & Data Apps Frameworks
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/streamlit">
+        <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" style="border-radius:10px;">
+        <br>
+      </a>
+    </td>
+  </tr>
+</table>
+
+### 🐍 Backend Engineering
+<table width="100%">
+  <tr>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/python-core">
+        <img src="https://www.python.org/static/img/python-logo.png" style="border-radius:10px;">
+      </a>
+    </td>
+    <td width="25%" align="center">
+      <a href="https://github.com/iamabinashpanda/fastapi">
+        <img src="https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png" style="border-radius:10px;">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
-
 ## 📊 Technical Activity & Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamabinashpanda&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabinashpanda&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" />
+</p>
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabinashpanda&theme=react-dark&area=true&hide_border=true" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/iamabinashpanda?label=Followers&style=for-the-badge&color=212121&logo=github" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamabinashpanda&theme=dark&hide_border=true" width="100%" />
 </p>
 
 ---
-
-## 🌐 Connect & Collaborate
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabinashpanda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toabinashpanda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamabinashpanda@outlook.com) 
-
----
-
-[![](https://visitcount.itsvg.in/api?id=iamabinashpanda&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
