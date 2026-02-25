@@ -64,6 +64,16 @@ Expertise in architecting and optimizing Insurance Core Systems through the full
   </a>
 </p>
 
+### 🐍 Backend & Python Engineering
+<p align="center">
+  <a href="https://github.com/iamabinashpanda/fastapi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=fastapi&theme=dark" />
+  </a>
+  <a href="https://github.com/iamabinashpanda/python-certification-projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=python-certification-projects&theme=dark" />
+  </a>
+</p>
+
 ---
 
 ## 📊 Technical Activity & Metrics
