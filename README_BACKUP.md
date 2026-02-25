@@ -1,21 +1,87 @@
-# 💫 About Me:
-Hi there, I'm ABINASH PANDA 👋<br><br>🚀 Aspiring Cloud & Data Professional<br>I am currently undergoing a rigorous multi-certification journey to master the intersection of Data Science, Cloud Architecture and DevOps automation.<br><br>🎓 My Certification Roadmap<br>Course :<br>🐍 Python<br>📊 Data Science<br>♾️ DevOps<br>📉 Power BI <br>☁️ AWS Solution Architect<br>🐧 Linux Administration<br>🏗️ Jenkins Certification<br>🐙 Git & GitHub
+# ⚡ Abinash Panda
+### **Multi-Cloud Solutions Engineer | MLOps Engineer | Ex - Enterprise Systems Configuration Specialist**
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/iamabinashpanda) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iamabinashpanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabinashpanda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@iamabinashpanda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toabinashpanda) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@toabinashpanda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamabinashpanda@outlook.com) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=iamabinashpanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=iamabinashpanda&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=iamabinashpanda&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=iamabinashpanda&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQHlUHkCpRf7rg/profile-displaybackgroundimage-shrink_350_1400/B56ZpSgwbGH8AY-/0/1762320917458?e=1773878400&v=beta&t=RFBr7mXCmuX5em40Fak0Zg7k-1X72glb8Y4a6rwIXBc)
 
 ---
+
+## 💫 Professional Identity
+I am a technical specialist with **3+ years of experience** in Policy Configurations and now, level up engineering in high-availability **Cloud Infrastructures** and automating the **Machine Learning Lifecycle (MLOps)**. My background is rooted in **Duck Creek Enterprise Policy Configurations**, where I bridge the gap between complex business logic into its native Product Engineering's.
+
+---
+
+## 💻 Strategic Tech Stack
+
+### ☁️ Multi-Cloud & Infrastructure (IaC)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 🤖 MLOps & Data Science Ecosystem
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=mlflow&logoColor=blue) ![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=WeightsAndBiases&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+### ♾️ DevOps & Observability
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### 📊 Big Data & Storage
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 🦆 Enterprise Track Record: Duck Creek Technologies
+**Policy Configurator - Consultant (3 Years Experience)**
+Expertise in architecting and optimizing Insurance Core Systems through the full Duck Creek lifecycle:
+
+* **Policy Logic:** 3 years of deep-dive configuration in **DC Author**, **DC Rating**, and **DC TransACT**, managing complex transaction engines and actuarial algorithms.
+* **UI/UX & Business Process:** Designing intuitive portal interfaces via **DC Express 3** and automating enterprise workflows with **DC Workflows**.
+* **Governance & Efficiency:** Streamlining environment health using **DC Utility**, **DC Forms**, and advanced performance debugging via **Trace Monitor**.
+
+---
+
+## 🚀 Featured Engineering Repositories
+
+### ☁️ Cloud & DevOps Infrastructure
+<p align="center">
+  <a href="https://github.com/iamabinashpanda/aws-solutions-architect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=aws-solutions-architect&theme=dark" />
+  </a>
+  <a href="https://github.com/iamabinashpanda/devops-engineering-lab">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=devops-engineering-lab&theme=dark" />
+  </a>
+  <a href="https://github.com/iamabinashpanda/linux-administration">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=linux-administration&theme=dark" />
+  </a>
+</p>
+
+### 🧪 Data Science & MLOps
+<p align="center">
+  <a href="https://github.com/iamabinashpanda/data-science-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=data-science-portfolio&theme=dark" />
+  </a>
+  <a href="https://github.com/iamabinashpanda/power-bi-dashboards">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=power-bi-dashboards&theme=dark" />
+  </a>
+  <a href="https://github.com/iamabinashpanda/streamlit-data-apps">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=iamabinashpanda&repo=streamlit-data-apps&theme=dark" />
+  </a>
+</p>
+
+---
+
+## 📊 Technical Activity & Metrics
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabinashpanda&theme=react-dark&area=true&hide_border=true" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/followers/iamabinashpanda?label=Followers&style=for-the-badge&color=212121&logo=github" />
+</p>
+
+---
+
+## 🌐 Connect & Collaborate
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamabinashpanda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/toabinashpanda) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:iamabinashpanda@outlook.com) 
+
+---
+
 [![](https://visitcount.itsvg.in/api?id=iamabinashpanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
