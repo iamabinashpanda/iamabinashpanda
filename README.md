@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQEuSRegxI0jUg/profile-displaybackgroundimage-shrink_200_800/B4DZ8HuFb6KYAU-/0/1782540950241?e=1785974400&v=beta&t=eFyqD6p0RRRKvA-HX1jEfiyv8yDkk6MLeoEheFCqG-g" alt="Professional banner" width="100%" style="border-radius:16px;" />
+  <img src="https://atd-website-blog.s3.us-east-2.amazonaws.com/wp-content/uploads/2023/12/30061235/LinkedIn-Background-Banner-Designs-.jpg" alt="Professional banner" width="100%" style="border-radius:16px;" />
 </p>
 
 <p align="center">
@@ -133,27 +133,27 @@ A curated collection of my most relevant learning and project work, blending pra
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/iamabinashpanda">
+      <a href="https://github.com/iamabinashpanda/agentic-ai">
         <img src="https://images.unsplash.com/photo-1485827404703-89b55fcc595e?auto=format&fit=crop&w=600&q=80" width="220px" alt="Agentic AI" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
         <sub><b>Agentic AI</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/iamabinashpanda">
-        <img src="https://images.unsplash.com/photo-1516321497487-e288fb19713f?auto=format&fit=crop&w=600&q=80" width="220px" alt="LLM" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
-        <sub><b>Prompt Engineering using LLM</b></sub>
+      <a href="https://github.com/iamabinashpanda/machine-learning">
+        <img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&w=600&q=80" width="220px" alt="Machine Learning" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
+        <sub><b>Machine Learning</b></sub>
       </a>
     </td>
     <td align="center">
-      <a href="https://github.com/iamabinashpanda">
-        <img src="https://images.unsplash.com/photo-1516116216624-53e697fedbea?auto=format&fit=crop&w=600&q=80" width="220px" alt="NLP & DL" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
-        <sub><b>NLP & DL</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/iamabinashpanda">
+      <a href="https://github.com/iamabinashpanda/data-science">
         <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?auto=format&fit=crop&w=600&q=80" width="220px" alt="Data Science" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
-        <sub><b>Data Science and Machine Learning</b></sub>
+        <sub><b>Data Science</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/iamabinashpanda/python">
+        <img src="https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2023/02/hand-holding-python-logo.jpg?q=50&fit=crop&w=1488&h=837&dpr=1.5" width="220px" alt="Python" style="border-radius:14px; box-shadow:0 6px 16px rgba(0,0,0,0.22); object-fit:cover; height:120px;" /><br />
+        <sub><b>Python</b></sub>
       </a>
     </td>
   </tr>
