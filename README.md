@@ -1,4 +1,6 @@
-# **Abinash Panda**
+<div align="center">
+  # **Abinash Panda**
+</div>div>
 
 <div align="center">
   <p style="font-size: 18px; font-weight: 700; margin: 6px 0 4px 0;">
