@@ -162,10 +162,6 @@ A curated collection of my most relevant learning and project work, blending pra
 ---
 
 ## 📈 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamabinashpanda&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamabinashpanda&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamabinashpanda&theme=tokyo-night&area=true&hide_border=true" width="100%" />
