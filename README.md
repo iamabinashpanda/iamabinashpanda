@@ -1,267 +1,104 @@
-# Abinash Panda
+# 👋 Hi, I'm Abinash Panda
 
-### Software Development Professional | Data Analytics | Data Science & AI/ML Learner
+### Software Development Professional | Data & AI Learner
 
-Software development professional with 3 years of experience in enterprise insurance technology, specializing in Duck Creek Policy configuration, application development, debugging, SQL-based data handling, and business-rule implementation.
+**Python • SQL • Data Analytics • Machine Learning • Generative AI**
 
-Currently building a new technical direction across **Data Analytics, Data Science, Machine Learning, Generative AI, and Python-based application development** through structured learning and hands-on projects.
+I’m a Computer Science graduate with **3+ years of enterprise software experience** in P&C insurance technology, now building hands-on skills across **Data, Machine Learning and AI**.
 
----
-
-## 👋 About Me
-
-I am a Computer Science graduate with professional experience in software development and enterprise insurance technology.
-
-From 2021 to 2024, I worked as an **Analyst – Software Development at Qalibre Software Solutions**, where I worked with Duck Creek Policy and related technologies in the Property & Casualty insurance domain.
-
-My professional experience includes:
-
-* Duck Creek Policy configuration and business-rule implementation
-* P&C insurance domain and policy administration systems
-* SQL Server and database-related data fixes
-* XML/XSLT configuration
-* ASP.NET and C# development exposure
-* Debugging and application validation
-* JIRA-based development workflows
-* SDLC and collaborative software development
-* Internal engineering tools and proof-of-concept development
-
-I am currently expanding my technical foundation toward **Data Analytics, Data Science, Machine Learning and AI**, with Python as a core programming language.
+My GitHub is primarily a collection of **training work, case studies, experiments and personal projects** — feel free to explore the repositories below.
 
 ---
 
-## 🎯 Current Direction
+## 🧭 My Journey
 
-My current learning path focuses on combining:
-
-**Software Engineering + Data + AI + Business Understanding**
-
-### Data Analytics
-
-* Microsoft Excel
-* Power BI
-* Tableau
-* SQL
-* Python
-* Data cleaning and analysis
-* Data visualization
-
-### Data Science
-
-* Python
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Exploratory Data Analysis
-* Statistics and descriptive analysis
-
-### Machine Learning
-
-* Scikit-learn
-* Regression
-* Classification
-* Model evaluation
-* Feature preparation
-* Time-series modelling
-* Model packaging and deployment experiments
-
-### AI / Generative AI
-
-* Prompt Engineering
-* LLM-based applications
-* Agentic AI concepts
-* Retrieval-Augmented Generation (RAG)
-* Streamlit
-* Gradio
-
-### Software & Development
-
-* Python
-* SQL Server
-* C#
-* ASP.NET
-* FastAPI
-* Git
-* GitHub
-* Jupyter Notebook
-
-### Cloud / MLOps — Learning & Exploration
-
-* AWS
-* Docker
-* Kubernetes
-* Terraform
-* MLflow
-* CI/CD concepts
-* Linux
+**Computer Science → Software Development → P&C / Duck Creek → Reskilling → Data & AI**
 
 ---
 
-## 💼 Professional Experience
+## 🛠️ Current Technical Focus
 
-### Analyst – Software Development
+**Programming:** Python • SQL • C# • PHP
 
-**Qalibre Software Solutions**
-**Dec 2021 – Sep 2024**
+**Data:** Pandas • NumPy • Excel • Power BI • Matplotlib • Seaborn
 
-Worked on enterprise insurance technology with a focus on Duck Creek Policy and Property & Casualty insurance systems.
+**Machine Learning:** Scikit-learn • Regression • Classification • Model Evaluation
 
-Key areas of experience:
+**AI / GenAI:** LLM APIs • Prompt Engineering • RAG • LangChain • LangGraph • LlamaIndex • Agentic AI
 
-* Duck Creek Policy configuration
-* Rating and Forms
-* Express 2 / Express 3
-* Policy business rules
-* SQL Server and data-related fixes
-* XML/XSLT configuration
-* Debugging using Trace Monitor and related utilities
-* Application validation and functional testing
-* JIRA-based task management
-* Code reviews and issue resolution
-* Technical knowledge-sharing sessions
+**AI Apps:** Streamlit • Gradio • FastAPI
 
-### Internal Engineering & POC Contributions
+**Development:** Git • GitHub • Jupyter • VS Code • MySQL • SQL Server
 
-Contributed to internal Duck Creek accelerator initiatives, including:
-
-* **Automated Rater** — automation support for premium mismatch validation
-* **Web Trace** — Express-based trace monitoring concept
-* **Forms Automation** — automation of forms and sub-form mapping workflows
-
-These initiatives were internal engineering/POC activities and are presented separately from production client experience.
+**Enterprise:** Duck Creek • P&C Insurance • XML/JSON • ASP.NET • HTML/CSS
 
 ---
 
-## 📊 Data Science & Machine Learning Projects
+## 📌 Selected Work
 
-I use this section to document my learning through practical implementations, case studies and prototypes.
+### 🤖 Agentic AI
 
-Current areas include:
+Hands-on experiments with LLM applications, RAG, tool use, agent workflows, search, document processing, Streamlit/Gradio interfaces, MCP and multi-agent concepts.
 
-* Exploratory Data Analysis
-* Data cleaning and preprocessing
-* Regression models
-* Classification models
-* Time-series forecasting
-* Model evaluation
-* Model serialization
-* Streamlit-based model applications
-* Python data visualization
-
-### Interactive Machine Learning Suite
-
-A personal/training project containing multiple machine learning models and interactive interfaces.
-
-Examples include:
-
-* Regression
-* Classification
-* Time-series forecasting
-* Predictive modelling
-* Interactive model interfaces using Streamlit
-
----
-
-## 🤖 AI & Agentic AI
-
-My AI work is currently focused on learning, experimentation and proof-of-concept development.
-
-Areas explored include:
-
-* Prompt engineering
-* LLM applications
-* Agentic workflows
-* Tool-based AI systems
-* RAG concepts
-* Multi-agent experimentation
-* Structured AI outputs
-* Streamlit and Gradio interfaces
-
----
-
-## 📈 Data Analytics
-
-I am building practical analytics skills using:
-
-* Excel
-* Power BI
-* Tableau
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* SQL
-
-Projects include data cleaning, exploratory analysis, visualization and business-oriented case studies.
-
----
-
-## 🧪 Project Context
-
-The Data Analytics, Data Science, Machine Learning and AI projects in this profile are primarily:
-
-* Personal learning projects
-* Training/class projects
-* Proof-of-concepts
-* Local prototypes
-* Academic/practice case studies
-
-They are **not presented as production AI/ML deployments or commercial AI/ML experience**.
-
-My professional production/enterprise experience is primarily from my software development work at Qalibre Software Solutions.
-
----
-
-## 📚 Continuous Learning
-
-My current learning journey includes:
-
-**Python → SQL → Data Analytics → Data Science → Machine Learning → AI/GenAI → Application Development**
-
-I am also strengthening my understanding of business, reasoning, communication and management as part of my preparation for postgraduate management studies.
-
----
-
-## ⭐ Featured Repositories
-
-### 🐍 Python
-
-Python programming, data manipulation, visualization and practical case studies.
-
-### 📊 Data Science
-
-Exploratory data analysis, statistics, visualization and practical data science case studies.
+**Repository:** `agentic-ai`
 
 ### 🤖 Machine Learning
 
-Machine learning algorithms, model development, evaluation and predictive modelling experiments.
+Python and Scikit-learn case studies covering feature engineering, supervised learning, regression, classification and model evaluation.
 
-### 🧠 Agentic AI
+**Repository:** `machine-learning`
 
-Experiments and prototypes exploring LLM-based workflows, agents, tools and orchestration.
+### 📊 Data Science
+
+Practical notebooks covering data cleaning, preprocessing, EDA, statistics, visualization and feature engineering.
+
+**Repository:** `data-science`
+
+### 🐍 Python
+
+Python training work covering programming fundamentals, OOP, NumPy, web scraping, databases, GUI applications and practical exercises.
+
+**Repository:** `python`
 
 ### 📈 Excel Analytics
 
-Data cleaning, analysis and visualization using Microsoft Excel.
+Excel-based learning and analytics work covering data cleaning, formulas, PivotTables, charts and dashboard-oriented analysis.
+
+**Repository:** `Excel-Analytics`
 
 ---
 
-## 📌 Career Direction
+## 💼 Enterprise Experience
 
-I am working toward a long-term career at the intersection of:
+**Qalibre Software Solutions — Analyst, Software Development**
 
-**Technology × Data × AI × Business**
+Worked in the P&C insurance technology domain with exposure to **Duck Creek Policy configuration, internal POCs and software-development activities**.
 
-My goal is to combine my software development foundation with data and AI capabilities while developing stronger business and management understanding.
+Client-side development exposure included **OneShield-related XML/JSON configuration and data integration work**, along with early **HTML-based declaration form development**.
 
----
-
-## 🤝 Connect
-
-* **GitHub:** [iamabinashpanda](https://github.com/iamabinashpanda)
-* **LinkedIn:** [Abinash Panda](https://www.linkedin.com/in/iamabinashpanda)
+Also contributed to internal Duck Creek POCs involving **rating, forms and trace/debugging utilities**.
 
 ---
 
-> **Learning by building, improving through practice, and connecting technology with real-world problems.**
+## 🎯 What I'm Building Toward
+
+**Data Analytics → Data Science → Machine Learning → Generative AI**
+
+with a longer-term goal of combining **technology, data and business understanding**.
+
+---
+
+### 📚 Education
+
+**B.Tech — Computer Science & Engineering**
+BPUT, 2019
+
+---
+
+### 🔗 Explore My Work
+
+If you're interested in the technical journey, start with:
+
+`agentic-ai` → `machine-learning` → `data-science` → `python` → `Excel-Analytics`
+
+**More repositories and experiments are available on my GitHub profile.**
